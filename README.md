@@ -1,0 +1,1 @@
+SQl syntaxes for projects
